@@ -5,7 +5,7 @@ $(document).ready(function(){
 		$('#cover').fadeTo(1500, 1.00);
 	});
 	setTimeout(function(){
-		$('#cover img').attr('src', 'Images/Family_Map_Graphic_Large.gif');
+		$('#cover img').attr('src', 'Family_Map_Graphic_Large.gif');
 	}, 3000);
 	$('#cover img').click(function(){
 		$('.container').fadeOut(1500, 0);
