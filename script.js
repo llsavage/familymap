@@ -29,7 +29,7 @@ $(document).ready(function(){
 		$("#ccs, #avk").fadeTo(1000, 1.00);
 	});
 	$('#gransav').click(function(){
-		$("#radfurness, #carolinewood");
+		$("#radfurness, #carolinewood").fadeTo(1000, 1.00);
 	});
 	$('#grandma').click(function(){
 		$("#kdw, #greatgranny").fadeTo(1000, 1.00);
